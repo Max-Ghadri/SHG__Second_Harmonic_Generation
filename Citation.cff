@@ -1,0 +1,13 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ghadri"
+  given-names: "Mohammad"
+- family-names: "Rezaee"
+  given-names: "Mostafa M."
+title: "Introducing an Open-Source Research Toolkit for Second Harmonic Generation (SHG): A Case Study of Depleted Pulsed Gaussian Wave SHG"
+version: 1.0.1
+doi: https://zenodo.org/records/16882610
+date-released: 2025-08-15
+url: "https://doi.org/10.5281/zenodo.16882610"
+
